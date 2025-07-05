@@ -61,5 +61,8 @@ The script outputs dynamic plots that offer insights into the weather forecast f
 This task helped build confidence in using APIs and visual tools, which are essential skills in both software and data-driven industries.
 
 # OUTPUT
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/710e6547-55a6-4514-a941-5375eda92562" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0ac6fce6-4822-44b5-b16a-c6ee15d2349a" />
 
 
