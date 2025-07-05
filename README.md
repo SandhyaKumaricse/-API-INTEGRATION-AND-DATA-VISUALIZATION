@@ -47,7 +47,7 @@ The script outputs dynamic plots that offer insights into the weather forecast f
 ## 🌍 Real-World Applications
 
 * **Weather Applications**: Creating basic dashboards to monitor weather patterns.
-* **IoT Sensor Monitoring**: Replacing API data with real-time sensor data from connected devices.
+* **IoT Sensor Monitoring**: Replacing API data with real-time sensor data from connected devices
 * **Travel & Tourism Websites**: Embedding this data to help users plan weather-dependent activities.
 * **Educational Projects**: Teaching API integration and visualization concepts to beginners.
 
