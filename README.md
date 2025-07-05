@@ -1,4 +1,4 @@
-# API-INTEGRATION-AND-DATA-VISUALIZATION
+# Task 1 - API Integration and Data Visualization
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## 📌 Task 1 - API Integration and Data Visualization
+----
 
 ## 📄 Description
 
@@ -60,6 +60,6 @@ The script outputs dynamic plots that offer insights into the weather forecast f
 
 This task helped build confidence in using APIs and visual tools, which are essential skills in both software and data-driven industries.
 
-##OUTPUT
+# OUTPUT
 
-<img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9db1db5e-8595-4bc1-a9d4-228aeb711095" />
+
